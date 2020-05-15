@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation" type="id" />
+    <item name="gallery" type="id" />
+    <item name="music" type="id" />
+    <item name="profile" type="id" />
+    <item name="dailyact" type="id" />
+    <item name="bottom_nav" type="id" />
+</resources>
